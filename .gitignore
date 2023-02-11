@@ -1,1 +1,6 @@
 web/sqlite
+# Emacs backup
+*~
+# temporary files not tracked by git
+temp*
+__pycache__
