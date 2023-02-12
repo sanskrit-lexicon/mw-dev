@@ -1,0 +1,51 @@
+; ---------------------------------------------------------
+; change_ab_1.txt
+; Changes discovered during transcoding.
+; These changes are to be made to orig/mw_AB.txt
+;     As of commit 787f86e1f232ec7d6e4cd541b97099411dd5c7c0
+; _ . change to space
+; ---------------------------------------------------------
+2667 old <L>733<pc>4,2<k1>akhaṇḍādvādaśī<k2>a-khaṇḍā_dvā-daśī<e>3
+2667 new <L>733<pc>4,2<k1>akhaṇḍādvādaśī<k2>a-khaṇḍā dvā-daśī<e>3
+;
+; >>  change to >
+230411 old <s>go—vinda—canda</s>, <lex>m.</lex>	¦ for <s>>go—vinda-candra</s>
+230411 new <s>go—vinda—canda</s>, <lex>m.</lex>	¦ for <s>go—vinda-candra</s>
+;---- <shortlong/>
+; mw_01_iast_plain_AB.txt has 235 matches in 208 lines for "<shortlong/>
+; 207 matches in 173 lines for "<shortlong/>" in buffer: temp_mw_AB.txt
+; temp_mw_AB.txt has 
+; ।   danda  3 matches for "।" in buffer: temp_mw_AB.txt
+; change these । to '.'
+102414 old 	<div n="p"/> Sometimes <s>íti</s> is used to include under one head a number of separate objects aggregated together (<ab>e. g.</ab> <s>ijy〈ā〉dhyayanadānāni tapaḥ satyaṃ kṣamā damaḥ । alobha íti mārgo 'yam</s>, ‘sacrificing, studying, liberality, penance, truth, patience, self-restraint, absence of desire’, this course of conduct, &c.)
+102414 new 	<div n="p"/> Sometimes <s>íti</s> is used to include under one head a number of separate objects aggregated together (<ab>e. g.</ab> <s>ijy〈ā〉dhyayanadānāni tapaḥ satyaṃ kṣamā damaḥ . alobha íti mārgo 'yam</s>, ‘sacrificing, studying, liberality, penance, truth, patience, self-restraint, absence of desire’, this course of conduct, &c.)
+;
+141321 old <s>etad</s> generally refers to what precedes, <ab>esp.</ab> when connected with <s>idam</s>,	¦ the latter then referring to what follows (<ab>e. g.</ab> <s>eṣa vai prathamaḥ kalpaḥ । anukalpas tv ayaṃ jñeyaḥ</s>, this before-mentioned is the principal rule, but this following may be considered a secondary rule, <ls>Mn. iii, 147</ls>)
+141321 new <s>etad</s> generally refers to what precedes, <ab>esp.</ab> when connected with <s>idam</s>,	¦ the latter then referring to what follows (<ab>e. g.</ab> <s>eṣa vai prathamaḥ kalpaḥ . anukalpas tv ayaṃ jñeyaḥ</s>, this before-mentioned is the principal rule, but this following may be considered a secondary rule, <ls>Mn. iii, 147</ls>)
+;
+815036 old 	¦ the acquisition of supernatural powers by magical means or the <ab n="supposed">sup°</ab> faculty so acquired (the eight usually enumerated are <pb n="1216,3"/> given in the following <s1>Śloka</s1>, <s>aṇimā laghimā pr〈ā〉ptiḥ prākāmyam mahimā tathā । īśitvaṃ ca vaśitvaṃ ca tathā kām〈ā〉vasāyitā</s>; sometimes 26 are added, <ab>e. g.</ab> <s>dūra-śravaṇa</s>, <s>sarvajña-tva</s>, <s>agni-stambha</s> &c.), <ls>Sāṃkhyak.</ls>; <ls>Tattvas.</ls>; <ls>Sarvad.</ls>
+815036 new 	¦ the acquisition of supernatural powers by magical means or the <ab n="supposed">sup°</ab> faculty so acquired (the eight usually enumerated are <pb n="1216,3"/> given in the following <s1>Śloka</s1>, <s>aṇimā laghimā pr〈ā〉ptiḥ prākāmyam mahimā tathā . īśitvaṃ ca vaśitvaṃ ca tathā kām〈ā〉vasāyitā</s>; sometimes 26 are added, <ab>e. g.</ab> <s>dūra-śravaṇa</s>, <s>sarvajña-tva</s>, <s>agni-stambha</s> &c.), <ls>Sāṃkhyak.</ls>; <ls>Tattvas.</ls>; <ls>Sarvad.</ls>
+; ă change to a
+37436 old <s>apā-vṛtta</s>, <lex>mfn.</lex> (for <s>apă-</s>, the vowel being metrically lengthened in the antepenultimate of a <s1>śloka</s1>),	¦ (with <ab>abl.</ab>) turned away from, <ls>R.</ls>
+37436 new <s>apā-vṛtta</s>, <lex>mfn.</lex> (for <s>apa-</s>, the vowel being metrically lengthened in the antepenultimate of a <s1>śloka</s1>),	¦ (with <ab>abl.</ab>) turned away from, <ls>R.</ls>
+;  ă change to a
+116756 old <s>ud-grāha—vat</s>, <lex>n.</lex>	¦ a kind of <s1>Sandhi</s1> (causing the change of <s>{ā}</s> and <s>a</s> to <s>ă</s> before <s>ṛ</s>), <ls>RPrāt. 136</ls>.
+116756 new <s>ud-grāha—vat</s>, <lex>n.</lex>	¦ a kind of <s1>Sandhi</s1> (causing the change of <s>{ā}</s> and <s>a</s> to <s>a</s> before <s>ṛ</s>), <ls>RPrāt. 136</ls>.
+; Remove (<s>úc-</s>) 
+108492 old <s>uc-chuṣma</s>, <lex>mfn.</lex> (<s>ud-śuṣma</s> [√⒉ <s>śuṣ</s>])	¦ one whose crackling becomes manifest (said of <s1>Agni</s1>), (<s>úc-</s>) <ls>TS.</ls>; <ls>AVPar.</ls> //rev(1321,2)
+108492 new <s>uc-chuṣma</s>, <lex>mfn.</lex> (<s>ud-śuṣma</s> [√⒉ <s>śuṣ</s>])	¦ one whose crackling becomes manifest (said of <s1>Agni</s1>), <ls>TS.</ls>; <ls>AVPar.</ls> //rev(1321,2)
+; ŭ́ -> ú
+118589 old ⒉ <s>ud-bhū</s>, <lex>mf(<s>{bhvī́}</s>)n.</lex> (<s>bhŭ́</s>)	¦ ‘being up to what is wanted’, sufficient;
+118589 new ⒉ <s>ud-bhū</s>, <lex>mf(<s>{bhvī́}</s>)n.</lex> (<s>bhú</s>)	¦ ‘being up to what is wanted’, sufficient;
+; ŭ́ -> ú
+369500 old <s>nir-°dhūta</s>, <lex>mfn.</lex>	¦ shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-dhŭ́ta</s>)
+369500 new <s>nir-°dhūta</s>, <lex>mfn.</lex>	¦ shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-dhúta</s>)
+; ŭ́ -> ú   <s>°rŭ́</s>
+425594 old <s>purú</s>, <lex>mf(<s>pūrvī́</s>)n.</lex> (√ <s>pṝ</s>)	¦ much, many, abundant (only <s>purū<shortlong/></s>, <s>°rū́ṇi</s>, <s>°rūṇām</s> and <ab>sev.</ab> cases of <lex>f.</lex> <s>pūrvī</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°rŭ́</s> <lex>ind.</lex> much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simā</s>, everywhere; with <s>tirás</s>, far off, from afar; <s>pur〈ā〉rú</s>, far and wide; <s>purú víśva</s>, one and all, every, <ls>RV.</ls>)
+425594 new <s>purú</s>, <lex>mf(<s>pūrvī́</s>)n.</lex> (√ <s>pṝ</s>)	¦ much, many, abundant (only <s>purū<shortlong/></s>, <s>°rū́ṇi</s>, <s>°rūṇām</s> and <ab>sev.</ab> cases of <lex>f.</lex> <s>pūrvī</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°rú</s> <lex>ind.</lex> much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simā</s>, everywhere; with <s>tirás</s>, far off, from afar; <s>pur〈ā〉rú</s>, far and wide; <s>purú víśva</s>, one and all, every, <ls>RV.</ls>)
+; m̆̇  -> m̐  (m with combining candrabindu)
+239075 old <L>70273<pc>380,1<k1>ghrām̆̇<k2>ghrā́m̆̇<e>1
+239075 new <L>70273<pc>380,1<k1>ghrām̐<k2>ghrā́m̐<e>1
+; m̆̇  -> m̐  (m with combining candrabindu)
+239076 old <s>ghrā́m̆̇</s>, <lex>ind.</lex>	¦ See <s>ghṛ́ṅ</s>.
+239076 new <s>ghrā́m̐</s>, <lex>ind.</lex>	¦ See <s>ghṛ́ṅ</s>.
