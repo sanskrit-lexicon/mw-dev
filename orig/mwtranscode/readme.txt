@@ -35,3 +35,24 @@ python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt
 
 diff temp_mw_AB.txt temp_mw_AB_check.txt
 # no difference.  The round trip worked!
+
+#---------------------------------------------------------------
+AB changes to mw_AB.txt incorporate some, but not all, of the changes
+in change_01.txt.
+Redo the transcoding.
+cp ../mw_AB.txt temp_mw_AB.txt
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+# 5 'unexpected character' warnings remain (as expected)
+ #37436, #116756, #118589, #369500, #425594
+
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+
+---------------------------------------------------------------
+# These 5 cases can be changed to '<s1>X</s1>'
+python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_1a.txt temp_mw_AB.txt
+
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
