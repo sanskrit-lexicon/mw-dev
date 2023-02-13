@@ -30,7 +30,7 @@ Changes made to temp_mw_AB.txt are in change_ab_1.txt
 Request AB to make these changes in mw_AB.txt.
 
 #---------------------------------------------------------------
-now back to roman to check for invertibility
+# now back to roman to check for invertibility
 python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
 
 diff temp_mw_AB.txt temp_mw_AB_check.txt
@@ -54,5 +54,16 @@ diff temp_mw_AB.txt temp_mw_AB_check.txt
 python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_1a.txt temp_mw_AB.txt
 
 python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+---------------------------------------------------------------
+AB put these 5 changes into mw_AB.txt.
+Recompute the slp1 version.
+cp ../mw_AB.txt temp_mw_AB.txt
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+
+# now back to roman to check for invertibility
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+
 diff temp_mw_AB.txt temp_mw_AB_check.txt
 # no difference.  The round trip worked!
