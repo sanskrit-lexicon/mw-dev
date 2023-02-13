@@ -1,0 +1,21 @@
+; ---------------------------------------------------------
+; change_ab_1a.txt
+; Changes discovered during transcoding.
+; AB changed mw_AB.txt according to change_ab_1.txt EXCEPT
+; for the 5 remaining, which are shown here.
+; ---------------------------------------------------------
+; ă change to a
+37436 old <s>apā-vṛtta</s>, <lex>mfn.</lex> (for <s>apă-</s>, the vowel being metrically lengthened in the antepenultimate of a <s1>śloka</s1>),	¦ (with <ab>abl.</ab>) turned away from, <ls>R.</ls>
+37436 new <s>apā-vṛtta</s>, <lex>mfn.</lex> (for <s1>apă-</s1>, the vowel being metrically lengthened in the antepenultimate of a <s1>śloka</s1>),	¦ (with <ab>abl.</ab>) turned away from, <ls>R.</ls>
+;  ă change to a
+116756 old <s>ud-grāha—vat</s>, <lex>n.</lex>	¦ a kind of <s1>Sandhi</s1> (causing the change of <s>{ā}</s> and <s>a</s> to <s>ă</s> before <s>ṛ</s>), <ls>RPrāt. 136</ls>.
+116756 new <s>ud-grāha—vat</s>, <lex>n.</lex>	¦ a kind of <s1>Sandhi</s1> (causing the change of <s>{ā}</s> and <s>a</s> to <s1>ă</s1> before <s>ṛ</s>), <ls>RPrāt. 136</ls>.
+; ŭ́ -> ú
+118589 old ⒉ <s>ud-bhū</s>, <lex>mf(<s>{bhvī́}</s>)n.</lex> (<s>bhŭ́</s>)	¦ ‘being up to what is wanted’, sufficient;
+118589 new ⒉ <s>ud-bhū</s>, <lex>mf(<s>{bhvī́}</s>)n.</lex> (<s1>bhŭ́</s1>)	¦ ‘being up to what is wanted’, sufficient;
+; ŭ́ -> ú
+369500 old <s>nir-°dhūta</s>, <lex>mfn.</lex>	¦ shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-dhŭ́ta</s>)
+369500 new <s>nir-°dhūta</s>, <lex>mfn.</lex>	¦ shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s1>-dhŭ́ta</s1>)
+; ŭ́ -> ú   <s>°rŭ́</s>
+425594 old <s>purú</s>, <lex>mf(<s>pūrvī́</s>)n.</lex> (√ <s>pṝ</s>)	¦ much, many, abundant (only <s>purū<shortlong/></s>, <s>°rū́ṇi</s>, <s>°rūṇām</s> and <ab>sev.</ab> cases of <lex>f.</lex> <s>pūrvī</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°rŭ́</s> <lex>ind.</lex> much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simā</s>, everywhere; with <s>tirás</s>, far off, from afar; <s>pur〈ā〉rú</s>, far and wide; <s>purú víśva</s>, one and all, every, <ls>RV.</ls>)
+425594 new <s>purú</s>, <lex>mf(<s>pūrvī́</s>)n.</lex> (√ <s>pṝ</s>)	¦ much, many, abundant (only <s>purū<shortlong/></s>, <s>°rū́ṇi</s>, <s>°rūṇām</s> and <ab>sev.</ab> cases of <lex>f.</lex> <s>pūrvī</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s1>°rŭ́</s1> <lex>ind.</lex> much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simā</s>, everywhere; with <s>tirás</s>, far off, from afar; <s>pur〈ā〉rú</s>, far and wide; <s>purú víśva</s>, one and all, every, <ls>RV.</ls>)
