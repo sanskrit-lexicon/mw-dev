@@ -79,3 +79,26 @@ diff temp_mw_AB.txt temp_mw_AB_check.txt
 # no difference.  The round trip worked!
 
 upload change and request AB to correct in mw_AB.txt.
+---------------------------------------------------------------
+revise 02-14-2023
+Recompute the slp1 version.
+python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_3.txt temp_mw_AB.txt
+#cp ../mw_AB.txt temp_mw_AB.txt
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+
+# now back to roman to check for invertibility
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+# Now, remake mw.xml based on AB version
+cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/abcode/pywork
+sh redo_hw.sh
+sh redo_xml.sh
+# sh redo_postxml.sh
+
+Back to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/orig/mwtranscode
+
+request AB to make changes of change_ab_3.
+

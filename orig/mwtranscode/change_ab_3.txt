@@ -1,0 +1,30 @@
+; remove <LEND>
+386547 old <LEND>
+386547 new ; delete
+;
+485926 old <LEND>
+485926 new ; delete
+;
+727937 old <LEND>
+727937 new ; delete
+;
+169303 old <s>kāraṇa—śarīra</s>, <lex>n.</lex>	¦ ‘causal body’, the original embryo or source of the body existing with the Universal impersonal Spirit and equivalent to <s1>A-vidyā</s1> (equivalent also to <s1>Māyā</s1>, and when investing the impersonal Spirit causing it to become the Personal God or <s1>Īśvara</s1>, <ls>RTL. <pg>p. 35</pg></ls> and <ls n="RTL. <pg n="p.">36</pg></ls>), <ls>Vedāntas.</ls>
+;
+169303 new <s>kāraṇa—śarīra</s>, <lex>n.</lex>	¦ ‘causal body’, the original embryo or source of the body existing with the Universal impersonal Spirit and equivalent to <s1>A-vidyā</s1> (equivalent also to <s1>Māyā</s1>, and when investing the impersonal Spirit causing it to become the Personal God or <s1>Īśvara</s1>, <ls>RTL. <pg>p. 35</pg></ls> and <ls n="RTL."><pg n="p.">36</pg></ls>), <ls>Vedāntas.</ls>
+;
+236196 old <s>ghaṭṭa</s>, <lex>m.</lex>	¦ a <s1>Ghaṭ</s1>, quay or landing-place, bathing-place, steps by a river-side &c., ferry, <ls>L.</ls> (<ab>cf.</ab> <ls>RTL. <pg>p. 435</pg></ls> & <ls n="RTL. <pg n="p.">518</pg> <ab>f.</ab></ls>)
+;
+236196 new <s>ghaṭṭa</s>, <lex>m.</lex>	¦ a <s1>Ghaṭ</s1>, quay or landing-place, bathing-place, steps by a river-side &c., ferry, <ls>L.</ls> (<ab>cf.</ab> <ls>RTL. <pg>p. 435</pg></ls> & <ls n="RTL."><pg n="p.">518</pg> <ab>f.</ab></ls>)
+;
+276955 old 	¦ truth-teaching <ab>cf.</ab> <ls>RTL. <pg>p. 492</pg></ls> and <ls n="RTL. <pg n="p.">509</pg></ls>
+;
+276955 new 	¦ truth-teaching <ab>cf.</ab> <ls>RTL. <pg>p. 492</pg></ls> and <ls n="RTL."><pg n="p.">509</pg></ls>
+;
+278088 old 	¦ a rudimentary or subtle element (5 in number, <ab>viz.</ab> <s>śabda-</s>, <s>sparśa-</s>, <s>rūpa-</s>, <s>rasa-</s>, <s>gandha-</s>, from which the 5 <s1>Mahā-bhūta</s1>s or grosser elements are produced <ab>cf.</ab> <ls>RTL. <pg>p. 31</pg></ls> and <ls n="RTL. <pg n="p.">33</pg></ls>), <ls>Yājñ. iii, 179</ls>; <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls>; <ls>Sāṃkhyak.</ls>; <ls>KapS.</ls> &c.
+;
+278088 new 	¦ a rudimentary or subtle element (5 in number, <ab>viz.</ab> <s>śabda-</s>, <s>sparśa-</s>, <s>rūpa-</s>, <s>rasa-</s>, <s>gandha-</s>, from which the 5 <s1>Mahā-bhūta</s1>s or grosser elements are produced <ab>cf.</ab> <ls>RTL. <pg>p. 31</pg></ls> and <ls n="RTL."><pg n="p.">33</pg></ls>), <ls>Yājñ. iii, 179</ls>; <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls>; <ls>Sāṃkhyak.</ls>; <ls>KapS.</ls> &c.
+;
+282152 old 	¦ satiating, refreshing (<ab>esp.</ab> of gods and deceased persons [<ab>cf.</ab> <s>ṛṣi-</s>, <s>pitṛ-</s>] by presenting to them libations of water; a particular ceremony performed with a magical <s1>Mantra</s1>, <ls>Sarvad.</ls>; <ab>cf.</ab> <ls>RTL. <pg>p. 394</pg></ls> and <ls n="RTL. <pg n="p.">409</pg></ls>), <ls>PārGṛ. iii, 3, 11</ls>; <ls>Mn. iii, 70</ls>; <ls>Yājñ. i, 46</ls>; <ls>MBh. xiii</ls> &c.
+;
+282152 new 	¦ satiating, refreshing (<ab>esp.</ab> of gods and deceased persons [<ab>cf.</ab> <s>ṛṣi-</s>, <s>pitṛ-</s>] by presenting to them libations of water; a particular ceremony performed with a magical <s1>Mantra</s1>, <ls>Sarvad.</ls>; <ab>cf.</ab> <ls>RTL. <pg>p. 394</pg></ls> and <ls n="RTL."><pg n="p.">409</pg></ls>), <ls>PārGṛ. iii, 3, 11</ls>; <ls>Mn. iii, 70</ls>; <ls>Yājñ. i, 46</ls>; <ls>MBh. xiii</ls> &c.
+;
