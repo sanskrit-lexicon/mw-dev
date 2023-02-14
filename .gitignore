@@ -4,3 +4,4 @@ web/sqlite
 # temporary files not tracked by git
 temp*
 __pycache__
+*.sqlite
