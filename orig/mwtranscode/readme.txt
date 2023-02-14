@@ -67,3 +67,15 @@ python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt
 
 diff temp_mw_AB.txt temp_mw_AB_check.txt
 # no difference.  The round trip worked!
+---------------------------------------------------------------
+Corrections to xml errors. See change_ab_2.txt.
+python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_2.txt temp_mw_AB.txt
+
+# make slp1 version
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+
+upload change and request AB to correct in mw_AB.txt.

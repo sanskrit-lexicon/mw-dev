@@ -1,0 +1,52 @@
+; 
+28962 old <s>antāya-√ <s>kṛ</s>,	¦ to fight obstinately, <ls>MBh.</ls>
+28962 new <s>antāya-√ kṛ</s>,	¦ to fight obstinately, <ls>MBh.</ls>
+;
+64183 old 	¦ (in <ab n="Vedānta"/>Ved.</ab> <ab>phil.</ab>) illuminating.
+64183 new 	¦ (in <ab n="Vedānta">Ved.</ab> <ab>phil.</ab>) illuminating.
+;
+169303 old <s>kāraṇa—śarīra</s>, <lex>n.</lex>	¦ ‘causal body’, the original embryo or source of the body existing with the Universal impersonal Spirit and equivalent to <s1>A-vidyā</s1> (equivalent also to <s1>Māyā</s1>, and when investing the impersonal Spirit causing it to become the Personal God or <s1>Īśvara</s1>, <ls>RTL. <pg>p. 35</pg></ls> and <ls n="RTL. <pg>p.">36</pg></ls>), <ls>Vedāntas.</ls>
+169303 new <s>kāraṇa—śarīra</s>, <lex>n.</lex>	¦ ‘causal body’, the original embryo or source of the body existing with the Universal impersonal Spirit and equivalent to <s1>A-vidyā</s1> (equivalent also to <s1>Māyā</s1>, and when investing the impersonal Spirit causing it to become the Personal God or <s1>Īśvara</s1>, <ls>RTL. <pg>p. 35</pg></ls> and <ls n="RTL."><pg>p. 36</pg></ls>), <ls>Vedāntas.</ls>
+;
+236196 old <s>ghaṭṭa</s>, <lex>m.</lex>	¦ a <s1>Ghaṭ</s1>, quay or landing-place, bathing-place, steps by a river-side &c., ferry, <ls>L.</ls> (<ab>cf.</ab> <ls>RTL. <pg>p. 435</pg></ls> & <ls n="RTL. <pg>p.">518</pg> <ab>f.</ab></ls>)
+236196 new <s>ghaṭṭa</s>, <lex>m.</lex>	¦ a <s1>Ghaṭ</s1>, quay or landing-place, bathing-place, steps by a river-side &c., ferry, <ls>L.</ls> (<ab>cf.</ab> <ls>RTL. <pg>p. 435</pg></ls> & <ls n="RTL."><pg>p. 518</pg> <ab>f.</ab></ls>)
+;
+276955 old 	¦ truth-teaching <ab>cf.</ab> <ls>RTL. <pg>p. 492</pg></ls> and <ls n="RTL. <pg>p.">509</pg></ls>
+276955 new 	¦ truth-teaching <ab>cf.</ab> <ls>RTL. <pg>p. 492</pg></ls> and <ls n="RTL."><pg>p.509</pg></ls>
+;
+278088 old 	¦ a rudimentary or subtle element (5 in number, <ab>viz.</ab> <s>śabda-</s>, <s>sparśa-</s>, <s>rūpa-</s>, <s>rasa-</s>, <s>gandha-</s>, from which the 5 <s1>Mahā-bhūta</s1>s or grosser elements are produced <ab>cf.</ab> <ls>RTL. <pg>p. 31</pg></ls> and <ls n="RTL. <pg>p.">33</pg></ls>), <ls>Yājñ. iii, 179</ls>; <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls>; <ls>Sāṃkhyak.</ls>; <ls>KapS.</ls> &c.
+;
+278088 new 	¦ a rudimentary or subtle element (5 in number, <ab>viz.</ab> <s>śabda-</s>, <s>sparśa-</s>, <s>rūpa-</s>, <s>rasa-</s>, <s>gandha-</s>, from which the 5 <s1>Mahā-bhūta</s1>s or grosser elements are produced <ab>cf.</ab> <ls>RTL. <pg>p. 31</pg></ls> and <ls n="RTL."><pg>p.33</pg></ls>), <ls>Yājñ. iii, 179</ls>; <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls>; <ls>Sāṃkhyak.</ls>; <ls>KapS.</ls> &c.
+;
+282152 old 	¦ satiating, refreshing (<ab>esp.</ab> of gods and deceased persons [<ab>cf.</ab> <s>ṛṣi-</s>, <s>pitṛ-</s>] by presenting to them libations of water; a particular ceremony performed with a magical <s1>Mantra</s1>, <ls>Sarvad.</ls>; <ab>cf.</ab> <ls>RTL. <pg>p. 394</pg></ls> and <ls n="RTL. <pg>p.">409</pg></ls>), <ls>PārGṛ. iii, 3, 11</ls>; <ls>Mn. iii, 70</ls>; <ls>Yājñ. i, 46</ls>; <ls>MBh. xiii</ls> &c.
+;
+282152 new 	¦ satiating, refreshing (<ab>esp.</ab> of gods and deceased persons [<ab>cf.</ab> <s>ṛṣi-</s>, <s>pitṛ-</s>] by presenting to them libations of water; a particular ceremony performed with a magical <s1>Mantra</s1>, <ls>Sarvad.</ls>; <ab>cf.</ab> <ls>RTL. <pg>p. 394</pg></ls> and <ls n="RTL."> <pg>p.409</pg></ls>), <ls>PārGṛ. iii, 3, 11</ls>; <ls>Mn. iii, 70</ls>; <ls>Yājñ. i, 46</ls>; <ls>MBh. xiii</ls> &c.
+;
+309185 old <s>dā°raṇa</s>, <lex>mf(<s>{ī}</s>)n.</lex>	¦ tearing, splitting, rending (<ab n="with"/>w.</ab> <ab>gen.</ab> or <ab>ifc.</ab>), <ls>MBh.</ls>
+309185 new <s>dā°raṇa</s>, <lex>mf(<s>{ī}</s>)n.</lex>	¦ tearing, splitting, rending (<ab n="with">w.</ab> <ab>gen.</ab> or <ab>ifc.</ab>), <ls>MBh.</ls>
+;
+317378 old <s>dur—mára</s>, <lex>n.</lex>	¦ a hard death (<ab n="with"/>w.</ab> <ab>instr.</ab> of <ab>pers.</ab>), <ls>MBh. xiv, 2364</ls>
+317378 new <s>dur—mára</s>, <lex>n.</lex>	¦ a hard death (<ab n="with">w.</ab> <ab>instr.</ab> of <ab>pers.</ab>), <ls>MBh. xiv, 2364</ls>
+;
+318305 old 	¦ ‘the inaccessible or terrific goddess’, <ab>N.</ab> of the daughter of <s1>Himavat</s1> and wife of <s1>Śiva</s1> (also called <s1>Umā</s1>, <s1>Pārvatī</s1> &c., and mother of <s1>Kārttikeya</s1> and <s1>Gaṇeśa</s1> <ab>cf.</ab> <sdurgā>-pūjā</s>), <ls>TĀr. x, 2, 3</ls> (<s>d°urgā devī</s>), <ls>MBh.</ls> &c.
+;
+318305 new 	¦ ‘the inaccessible or terrific goddess’, <ab>N.</ab> of the daughter of <s1>Himavat</s1> and wife of <s1>Śiva</s1> (also called <s1>Umā</s1>, <s1>Pārvatī</s1> &c., and mother of <s1>Kārttikeya</s1> and <s1>Gaṇeśa</s1> <ab>cf.</ab> <s>durgā-pūjā</s>), <ls>TĀr. x, 2, 3</ls> (<s>d°urgā devī</s>), <ls>MBh.</ls> &c.
+;
+337476 old 	¦ <ab>N.</ab> of a son of <s1>Śva-phalka</s1>, <ls>BhP.</ls> (<ab>cf.</ab> <s>dharma-dhṛk</s> and <sdharma>-bhṛt</s>)
+337476 new 	¦ <ab>N.</ab> of a son of <s1>Śva-phalka</s1>, <ls>BhP.</ls> (<ab>cf.</ab> <s>dharma-dhṛk</s> and <s>dharma-bhṛt</s>)
+;
+400577 old 	<div n="vp"/> (<ab>Ā.</ab>) to cause one's self to be turned round (in having one's head shaved all round), <ls>TBr.</ls>; <ls>ŚBr.</ls> (<ab>cf.</ab> <spari>-vartana</s>) :
+;
+400577 new 	<div n="vp"/> (<ab>Ā.</ab>) to cause one's self to be turned round (in having one's head shaved all round), <ls>TBr.</ls>; <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pari-vartana</s>) :
+;
+507241 old 	¦ <ab>w. r.</ab> for <sbhinna>-vṛtta</s>, <ls>Cat.</ls>
+507241 new 	¦ <ab>w. r.</ab> for <s>bhinna-vṛtta</s>, <ls>Cat.</ls>
+;
+710290 old <s>śabda—saṃdarbha-sindhu</s>, <lex>m.</lex> (<ab>cf.</ab> <s>śad〈ā〉rnav〈ā〉bhidhāna</s>)	¦ <ab>N.</ab> of a lexicon (compiled for Sir <ab n="William"/>W.</ab> Jones by <s1>Kāśīnātha Bhaṭṭācārya</s1>).
+;
+710290 new <s>śabda—saṃdarbha-sindhu</s>, <lex>m.</lex> (<ab>cf.</ab> <s>śad〈ā〉rnav〈ā〉bhidhāna</s>)	¦ <ab>N.</ab> of a lexicon (compiled for Sir <ab n="William">W.</ab> Jones by <s1>Kāśīnātha Bhaṭṭācārya</s1>).
+;
+863011 old 	¦ any lucky or auspicious object, (<ab>esp.</ab>) a kind of mystical cross or mark made on persons and things to denote good luck (it is shaped like a Greek cross with the extremities of the four arms bent round in the same direction; the majority of scholars regard it as a solar symbol; that is, as representing a curtailed form of the wheel of the Solar <s1>Viṣṇu</s1>, consisting of four spokes crossing each other at right angles with short fragments of the periphery of the circle at the end of each spoke turning round in one direction to denote the course of the Sun; <ab>accord.</ab> to the late Sir <ab n="Alexander"/>A.</ab> Cunningham it has no connexion with sun-worship, but its shape represents a monogram or interlacing of the letters of the auspicious words <s>su astí</s> [<s>svasti</s>] in the <s1>Aśoka</s1> characters; amongst <s1>Jaina</s1>s it is one of the 24 auspicious marks and is the emblem of the seventh <s1>Arhat</s1> of the present <s1>Avasarpiṇī</s1>), <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls>
+;
+863011 new 	¦ any lucky or auspicious object, (<ab>esp.</ab>) a kind of mystical cross or mark made on persons and things to denote good luck (it is shaped like a Greek cross with the extremities of the four arms bent round in the same direction; the majority of scholars regard it as a solar symbol; that is, as representing a curtailed form of the wheel of the Solar <s1>Viṣṇu</s1>, consisting of four spokes crossing each other at right angles with short fragments of the periphery of the circle at the end of each spoke turning round in one direction to denote the course of the Sun; <ab>accord.</ab> to the late Sir <ab n="Alexander">A.</ab> Cunningham it has no connexion with sun-worship, but its shape represents a monogram or interlacing of the letters of the auspicious words <s>su astí</s> [<s>svasti</s>] in the <s1>Aśoka</s1> characters; amongst <s1>Jaina</s1>s it is one of the 24 auspicious marks and is the emblem of the seventh <s1>Arhat</s1> of the present <s1>Avasarpiṇī</s1>), <ls>Hariv.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls>
+;
