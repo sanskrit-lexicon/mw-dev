@@ -5,3 +5,7 @@ web/sqlite
 temp*
 __pycache__
 *.sqlite
+# this file recreated by abcode/pywork/redo_postxml.sh
+abcode/web/webtc2/query_dump.txt
+# these files recreated by abcode/pywork/redo_hw.sh
+abcode/pywork/mwkeys/extract_keys*.txt
