@@ -1,0 +1,14 @@
+; remove <LEND>
+451165 old ; delete
+451165 new <LEND>
+;
+464526 old ; delete
+464526 new <LEND>
+; two xml errors
+426548 old 	¦ any one of the four objects or aims of existence (<ab>viz.</ab> <s>kāma</s>, the gratification of desire; <s>artha</s>, acquirement of wealth; <s>dharma</s>, discharge of duty; <s>mokṣa</s>, final emancipation), <ls>Mn.</ls>; <ls>Prab.</ls>; <ls>Kap.</ls> (<spuruṣ〈ā〉rtha>-tva</s>, <lex>n.</lex>), <ls>Sāṃkhyak.</ls> &c.
+;
+426548 new 	¦ any one of the four objects or aims of existence (<ab>viz.</ab> <s>kāma</s>, the gratification of desire; <s>artha</s>, acquirement of wealth; <s>dharma</s>, discharge of duty; <s>mokṣa</s>, final emancipation), <ls>Mn.</ls>; <ls>Prab.</ls>; <ls>Kap.</ls> (<s>puruṣ〈ā〉rtha-tva</s>, <lex>n.</lex>), <ls>Sāṃkhyak.</ls> &c.
+;
+744403 old 	¦ having the <s1>Veda</s1> as source or authority, supported by a Vedic text (<sśruti—mat>-tva</s>, <lex>n.</lex>), <ls>Nyāyam.</ls>
+;
+744403 new 	¦ having the <s1>Veda</s1> as source or authority, supported by a Vedic text (<s>śruti—mat-tva</s>, <lex>n.</lex>), <ls>Nyāyam.</ls>

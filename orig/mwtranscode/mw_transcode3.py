@@ -11,12 +11,12 @@ slp1chars = {}
 def update_slp1chars(x,y,tranin,tranout):
  if not ((tranin == 'roman') and (tranout == 'slp1')):
   return
- regex = "^[a-zA-Z|~/\\^— √°'+.,;=?\[\]\(\)!‘’〈〉{}-]*$"
+ regex = "^[a-zA-Z|~/\\^— √°'+.,;=?\[\]\(\)!‘’〈〉{}‒-]*$"
  m = re.search(regex,y)
  if m == None:
   import string
   lowups = string.ascii_lowercase + string.ascii_uppercase
-  others = r"~/|~\^— √°'+.,;=?[]()!‘’〈〉{}-]"
+  others = r"~/|~\^— √°'+.,;=?[]()!‘’〈〉{}‒-]"
   goodchars = lowups + others
   badchars = [c for c in y if c not in goodchars]
   
