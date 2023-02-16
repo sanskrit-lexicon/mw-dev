@@ -4,6 +4,7 @@ web/sqlite
 # temporary files not tracked by git
 temp*
 __pycache__
+*.pyc
 *.sqlite
 # this file recreated by abcode/pywork/redo_postxml.sh
 abcode/web/webtc2/query_dump.txt
