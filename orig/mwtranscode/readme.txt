@@ -102,6 +102,34 @@ cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/orig/mwtranscode
 
 request AB to make changes of change_ab_3.
 ------------------------------------------------------------
+AB changes made. 02-15-2023 (part a)
+# initialize empty change file
+touch change_ab_3b.txt
+
+python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_3b.txt temp_mw_AB.txt
+
+# Many instances of unexpected character in Sanskrit text:
+#   ‒  Figure Dash (General Punctuation) U+2012
+# Solution: change transcode3.py to allow this character in sanskrit text.
+  
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+
+# now back to roman to check for invertibility
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+# Now, remake mw.xml based on AB version
+cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/abcode/pywork
+sh redo_hw.sh
+sh redo_xml.sh
+sh xmlchk.sh  ## uses Python, since xmlint not available on Windows 11.
+sh redo_postxml.sh  
+
+Back to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/
+
+------------------------------------------------------------
 AB changes made. 02-15-2023
 # change_ab_3a.txt
 #  2 corrections re LEND.

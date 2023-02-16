@@ -23,7 +23,7 @@ H1B | H2B | H3B | H4B | H1C | H2C | H3C | H4C | H1E | H2E | H3E | H4E)*>
 <!ELEMENT H2E (h,body,tail) >
 <!ELEMENT H3E (h,body,tail) >
 <!ELEMENT H4E (h,body,tail) >
-<!ENTITY % body_elts "b | i | s |div | alt | symbol | F |  br | H | root |lb | P | lang | sup | pic | ls |ab|lbinfo|s1|lex|vlex|C|Poem|note|nsi |sic|is|bot|VN|type|hom|mark|edit|bio|etym|pb|pc|pcol|shortlong|srs|info|ns|span |ar|cl|col|ety|gk|ln|nt|pcol|pe|pg|sch|cse" >
+<!ENTITY % body_elts "b | i | s |div | alt | symbol | F |  br | H | root |lb | P | lang | sup | pic | ls |ab|lbinfo|s1|lex|vlex|C|Poem|note|nsi |sic|is|bot|VN|type|hom|mark|edit|bio|etym|pb|pc|pcol|shortlong|srs|info|ns|span |ar|cl|col|cog|gk|ln|nt|pcol|pe|pg|sch|cse" >
 <!ELEMENT h  (key1,key2,hom?)>
 <!ELEMENT key1 (#PCDATA) >
 <!ELEMENT key2 (#PCDATA )>
@@ -86,7 +86,7 @@ pwg requires also is
 <!ELEMENT ar (#PCDATA)>
 <!ELEMENT cl (#PCDATA)>
 <!ELEMENT col (#PCDATA)>
-<!ELEMENT ety (#PCDATA)>
+<!ELEMENT cog (#PCDATA)>
 <!ELEMENT gk (#PCDATA)>
 <!ELEMENT ln (#PCDATA)>
 <!ELEMENT nt (#PCDATA)>
