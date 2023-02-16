@@ -23,7 +23,7 @@ H1B | H2B | H3B | H4B | H1C | H2C | H3C | H4C | H1E | H2E | H3E | H4E)*>
 <!ELEMENT H2E (h,body,tail) >
 <!ELEMENT H3E (h,body,tail) >
 <!ELEMENT H4E (h,body,tail) >
-<!ENTITY % body_elts "b | i | s |div | alt | symbol | F |  br | H | root |lb | P | lang | sup | pic | ls |ab|lbinfo|s1|lex|vlex|C|Poem|note|nsi |sic|is|bot|VN|type|hom|mark|edit|bio|etym|pb|pc|pcol|shortlong|srs|info|ns|span |ar|cl|col|cog|gk|ln|nt|pcol|pe|pg|sch|cse" >
+<!ENTITY % body_elts "b | i | s |div | alt | symbol | F |  br | H | root |lb | P | lang | sup | pic | ls |ab|lbinfo|s1|lex|vlex|C|Poem|note|nsi |sic|is|bot|VN|type|hom|mark|edit|bio|etym|pb|pc|shortlong|srs|info|ns|span |ar|cl|col|cog|gk|ln|nt|pcol|pe|pg|sch|cse" >
 <!ELEMENT h  (key1,key2,hom?)>
 <!ELEMENT key1 (#PCDATA) >
 <!ELEMENT key2 (#PCDATA )>
@@ -100,7 +100,6 @@ pwg requires also is
 <!ATTLIST div name CDATA #IMPLIED>
 <!-- new attributes cf, cl, p for mw-dev -->
 <!ATTLIST div n (P | 2 | 3 | lb |pfx |1 | I | xe | xs |p|H|P1|HI|F|NI|m|o|4|v|E|Poem|Picture|lex|to|vp|Q|cf|cl|p) #IMPLIED>
-<!ATTLIST pg n CDATA #IMPLIED>  <!-- mw-dev -->
 <!ATTLIST pg n CDATA #IMPLIED>  <!-- mw-dev -->
 <!ATTLIST span style CDATA #IMPLIED>
 <!ATTLIST span class CDATA #IMPLIED>
