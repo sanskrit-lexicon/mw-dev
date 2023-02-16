@@ -1,4 +1,4 @@
-web/sqlite
+# web/sqlite  this handled by .sqlite exclusion below.
 # Emacs backup
 *~
 # temporary files not tracked by git
