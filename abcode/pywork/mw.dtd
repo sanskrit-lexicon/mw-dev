@@ -99,7 +99,7 @@ pwg requires also is
 <!ATTLIST symbol n CDATA #REQUIRED>
 <!ATTLIST div name CDATA #IMPLIED>
 <!-- new attributes cf, cl, p for mw-dev -->
-<!ATTLIST div n (P | 2 | 3 | lb |pfx |1 | I | xe | xs |p|H|P1|HI|F|NI|m|o|4|v|E|Poem|Picture|lex|to|vp|Q|cf|cl|p) #IMPLIED>
+<!ATTLIST div n (P | 2 | 3 | lb |pfx |1 | I | xe | xs |p|H|P1|HI|F|NI|m|o|4|v|E|Poem|Picture|lex|to|vp|Q|cf|cl) #IMPLIED>
 <!ATTLIST pg n CDATA #IMPLIED>  <!-- mw-dev -->
 <!ATTLIST span style CDATA #IMPLIED>
 <!ATTLIST span class CDATA #IMPLIED>
