@@ -157,3 +157,20 @@ sh redo_postxml.sh
 Back to this directory
 cd /c/xampp/htdocs/sanskrit-lexicon/mw-dev/
 
+------------------------------------------------------------
+AB changes made. 02-18-2023  commit 761d84a0d
+# transcode
+# cd orig/mwtranscode
+# cp ../mw_AB.txt temp_mw_AB.txt
+# correct 2 xml errors
+python ../../pywork/updateByLine.py ../mw_AB.txt change_ab_3c.txt temp_mw_AB.txt
+# corrections
+
+python mw_transcode3.py roman slp1 temp_mw_AB.txt ../temp_mw_ab_slp1.txt
+
+# check for invertibility
+python mw_transcode3.py slp1 roman ../temp_mw_ab_slp1.txt temp_mw_AB_check.txt 
+
+diff temp_mw_AB.txt temp_mw_AB_check.txt
+# no difference.  The round trip worked!
+Request AB to make these two changes in next revision of mw_AB.txt.
