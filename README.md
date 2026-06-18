@@ -63,7 +63,7 @@ This repository contains both source code and dictionary/data files, which are
 licensed separately:
 
 - **Source code** (e.g. `*.py`, `*.php`, `*.js`, `*.sh`) is licensed under the
-  **GNU General Public License v3.0** — see [`LICENSE-CODE`](LICENSE-CODE).
+  **GNU General Public License v3.0** — see [`licenses/GPL-3.0.txt`](licenses/GPL-3.0.txt).
 - **Dictionary and data files** are licensed under **Creative Commons
   Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)** — see
   [`LICENSE`](LICENSE).
