@@ -14,7 +14,7 @@ function getwordCall() {
   $table1 = $temp->table1;
   if (isset($_GET['callback'])) {
    $callback = $_GET['callback'];
-   if (!preg_match('/^[A-Za-z_$][A-Za-z0-9_$.]{0,127}$/',$callback)) {
+   if (!is_string($callback) || !preg_match('/^[A-Za-z_$][A-Za-z0-9_$.]{0,127}$/',$callback)) {
     header('content-type: text/plain; charset=utf-8');
     http_response_code(400);
     echo "invalid callback";
