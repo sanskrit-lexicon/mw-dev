@@ -6,6 +6,9 @@ temp*
 __pycache__
 *.pyc
 *.sqlite
+# probe/dump residue (e.g. web/webtc2/query_dump.sqlite3, H5605): ad-hoc sqlite3
+# probe outputs have no repo producer and are never tracked — mirrors *.sqlite
+*.sqlite3
 # this file recreated by abcode/pywork/redo_postxml.sh
 abcode/web/webtc2/query_dump.txt
 # these files recreated by abcode/pywork/redo_hw.sh
