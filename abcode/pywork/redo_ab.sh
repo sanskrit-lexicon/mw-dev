@@ -1,8 +1,8 @@
 echo "in abcode/pywork directory"
 echo "BEGIN orig/mwtranscode/redo.sh"
-cd ../../orig/mwtranscode/
+cd ../../orig/mwtranscode/ || exit 1
 sh redo.sh
-cd ../../abcode/pywork
+cd ../../abcode/pywork || exit 1
 echo "BEGIN redo_hw.sh"
 sh redo_hw.sh
 echo "END redo_hw.sh"

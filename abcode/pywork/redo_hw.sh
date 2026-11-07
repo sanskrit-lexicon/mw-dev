@@ -10,6 +10,6 @@ python3 hw0.py mwhw.txt mwhw0.txt
 echo "construct xxxhw2.txt"
 echo "construct xxxhw0.txt"
 echo "construct mwkeys.sqlite"
-cd mwkeys
+cd mwkeys || exit 1
 sh redo.sh
 echo "DONE redo_hw.sh"
